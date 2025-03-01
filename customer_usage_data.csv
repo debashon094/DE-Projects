@@ -1,0 +1,5 @@
+usage_id,customer_id,data_used_gb,voice_minutes_used,sms_used,billing_cycle_start,billing_cycle_end,total_charges
+201, 1001, 5.2, 150, 20, 2024-08-01, 2024-08-31, 50.00
+202, 1002, 3.5, 200, 50, 2024-08-01, 2024-08-31, 40.00
+203, 1002, 3.5, 200, 50, 2024-08-01, 2024-08-31, 40.00
+204, 1003, NULL, NULL, 0, 2024-08-01, 2024-08-31, 30.00

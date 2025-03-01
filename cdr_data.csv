@@ -1,0 +1,5 @@
+call_id,customer_id,call_start_time,call_end_time,call_duration,call_type,network_type,call_status
+101, 1001, 2024-09-01 10:00:00, 2024-09-01 10:05:00, 300, outgoing, 4G, completed
+102, 1002, 2024-09-01 11:00:00, 2024-09-01 11:10:00, 600, incoming, 4G, completed
+103, 1002, 2024-09-01 11:00:00, 2024-09-01 11:10:00, 600, incoming, 4G, completed
+104, 1003, 2024-09-01 12:00:00, NULL, NULL, outgoing, 3G, dropped

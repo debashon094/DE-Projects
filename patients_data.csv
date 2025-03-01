@@ -1,0 +1,5 @@
+patient_id,first_name,last_name,dob,gender,address,contact_number,email,insurance_plan_id,last_visit_date
+1, John, Doe, 1985-05-10, Male, 123 Main St, 123-456-7890, john.doe@example.com, 101, 2024-01-10
+2, Jane, Smith, 1990-07-15, Female, 456 Oak St, 234-567-8901, jane.smith@example.com, 102, 2024-01-15
+2, Jane, Smith, 1990-07-15, Female, 456 Oak St, 234-567-8901, jane.smith@example.com, 102, 2024-01-15
+3, NULL, Williams, 1975-09-25, Female, NULL, 345-678-9012, alice.williams@example.com, NULL, 2024-01-20

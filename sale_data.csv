@@ -1,0 +1,5 @@
+transaction_id,customer_id,product_id,quantity,price,transaction_date,payment_method
+101, 1, P001, 2, 50.00, 2023-06-10, Credit Card
+102, 2, P002, 1, 100.00, 2023-06-11, PayPal
+103, 2, P002, 1, 100.00, 2023-06-11, PayPal
+104, 3, P003, 3, NULL, 2023-06-12, Credit Card

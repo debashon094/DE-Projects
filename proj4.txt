@@ -1,0 +1,6 @@
+New York,10.0
+New York,12.0
+Los Angeles,20.0 
+Los Angeles,22.0
+San Francisco,15.0 
+San Francisco,18.0
